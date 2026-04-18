@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+config/gcp-key.json
+*.csv
