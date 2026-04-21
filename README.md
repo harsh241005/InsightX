@@ -4,6 +4,10 @@
 
 **Live Dashboard:** [https://analytics-dashboard-169375435948.asia-south1.run.app](https://analytics-dashboard-169375435948.asia-south1.run.app)
 
+**Dashboard Image** 
+<img width="1891" height="888" alt="image" src="https://github.com/user-attachments/assets/2cace6ca-06d5-4a14-854d-5603e6f91001" />
+
+
 ---
 
 ## What It Does
